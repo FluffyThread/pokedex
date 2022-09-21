@@ -9,7 +9,7 @@ Nome dos integrantes:
 
 Link do Surge: http://dry-teaching.surge.sh/
 
-Tecnoligias utilizadas:
+Tecnologias utilizadas:
 useContex, useNavigate, useState, useEffect, useParams, axios
 
 Imagens do site:
